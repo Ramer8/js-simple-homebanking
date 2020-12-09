@@ -1,5 +1,5 @@
 //Declaración de variables
-var nombreUsuario = "Juan Pérez";
+var nombreUsuario = "Ramiro Poblete";
 var saldobackup = 0;
 var saldoCuenta = 300000;
 var limiteExtraccion = 50000;
